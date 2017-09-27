@@ -1,6 +1,6 @@
 This repository captures the ideas for [http://www.opengeospatial.org/projects/initiatives/testbed14]Testbed 14.
 
-If you have an idea, fill free to create one.
+If you have an idea, feel free to create one.
 
 Thank you!
  
