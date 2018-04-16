@@ -1,4 +1,4 @@
-This repository captures the ideas for [http://www.opengeospatial.org/projects/initiatives/testbed14]Testbed 14.
+This repository captures the ideas for OGC Testbeds.
 
 If you have an idea, feel free to create one.
 
