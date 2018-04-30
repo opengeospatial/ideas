@@ -1,6 +1,5 @@
-This repository captures the ideas for OGC Testbeds.
+This repository captures the ideas for OGC IP initiatives.
 
 If you have an idea, feel free to create one.
 
 Thank you!
- 
