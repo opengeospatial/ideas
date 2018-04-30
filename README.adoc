@@ -1,5 +1,7 @@
-This repository captures the ideas for OGC IP initiatives.
+This repository captures ideas for future OGC Innovation Program initiatives.
 
-If you have an idea, feel free to create one.
+If you have an idea, feel free to create one or to respond to an existing one.
+
+Some of the ideas are already labelled. These labels can be used by anyone to suggest ideas for specific initiatives. Closed issues have been addressed in past or ongoing initiatives.
 
 Thank you!
